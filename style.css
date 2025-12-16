@@ -199,3 +199,7 @@ p {
 #isla-container tbody tr:nth-child(even) {
     background-color: rgba(78, 205, 196, 0.1); /* Fondo sutil para filas pares */
 }
+
+#isla-container .content h3 {
+    color: #FFC300; /* Color amarillo/dorado para los títulos de sección */
+}
