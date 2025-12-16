@@ -167,3 +167,35 @@ p {
         min-width: auto;
     }
 }
+
+/* Estilos específicos para la página "La Isla" */
+#isla-container .content section {
+    background-color: rgba(255, 255, 255, 0.05); /* Un fondo muy sutil para las secciones */
+    border: 1px solid #4ECDC4; /* Borde con el color turquesa */
+    border-radius: 8px; /* Bordes redondeados */
+    padding: 20px; /* Espaciado interno */
+    margin-bottom: 25px; /* Margen inferior para separar secciones */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Sombra suave */
+}
+
+#isla-container table {
+    width: 100%; /* Ancho completo */
+    border-collapse: collapse; /* Bordes colapsados */
+    margin-top: 20px;
+}
+
+#isla-container th, #isla-container td {
+    border: 1px solid #4ECDC4; /* Borde turquesa para celdas */
+    padding: 12px; /* Espaciado interno */
+    text-align: left; /* Alineación del texto */
+}
+
+#isla-container thead {
+    background-color: #4ECDC4; /* Fondo turquesa para la cabecera */
+    color: #0A1928; /* Texto oscuro para contraste */
+    font-weight: bold;
+}
+
+#isla-container tbody tr:nth-child(even) {
+    background-color: rgba(78, 205, 196, 0.1); /* Fondo sutil para filas pares */
+}
