@@ -2,60 +2,128 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- Spanish Homepage -->
+  <!-- Homepage URLs -->
   <url>
     <loc>https://malapascuaislamaldita.com/es/index.html</loc>
     <priority>1.00</priority>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="en"
-                 href="https://malapascuaislamaldita.com/en/index.html"/>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="es"
-                 href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/index.html"/>
   </url>
-
-  <!-- English Homepage -->
   <url>
     <loc>https://malapascuaislamaldita.com/en/index.html</loc>
     <priority>1.00</priority>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="es"
-                 href="https://malapascuaislamaldita.com/es/index.html"/>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="en"
-                 href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/index.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/fr/index.html</loc>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/index.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/zh/index.html</loc>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/index.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/ja/index.html</loc>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/index.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/hi/index.html</loc>
+    <priority>1.00</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/index.html"/>
   </url>
 
-  <!-- Spanish "La Isla" page -->
+  <!-- "The Island" Page URLs -->
   <url>
     <loc>https://malapascuaislamaldita.com/es/la-isla.html</loc>
     <priority>0.80</priority>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="en"
-                 href="https://malapascuaislamaldita.com/en/the-island.html"/>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="es"
-                 href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-ile.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/dao.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
   </url>
-
-  <!-- English "The Island" page -->
   <url>
     <loc>https://malapascuaislamaldita.com/en/the-island.html</loc>
     <priority>0.80</priority>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="es"
-                 href="https://malapascuaislamaldita.com/es/la-isla.html"/>
-    <xhtml:link
-                 rel="alternate"
-                 hreflang="en"
-                 href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-ile.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/dao.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/fr/l-ile.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-ile.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/dao.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/zh/dao.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-ile.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/dao.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/ja/shima.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-ile.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/dao.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/hi/dweep.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-ile.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/dao.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
   </url>
 
 </urlset>
