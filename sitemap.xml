@@ -1,18 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Jules -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-<url>
-  <loc>https://malapascuaislamaldita.com/</loc>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://malapascuaislamaldita.com/la-isla.html</loc>
-  <priority>0.80</priority>
-</url>
+  <!-- Spanish Homepage -->
+  <url>
+    <loc>https://malapascuaislamaldita.com/es/index.html</loc>
+    <priority>1.00</priority>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://malapascuaislamaldita.com/en/index.html"/>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="es"
+                 href="https://malapascuaislamaldita.com/es/index.html"/>
+  </url>
+
+  <!-- English Homepage -->
+  <url>
+    <loc>https://malapascuaislamaldita.com/en/index.html</loc>
+    <priority>1.00</priority>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="es"
+                 href="https://malapascuaislamaldita.com/es/index.html"/>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://malapascuaislamaldita.com/en/index.html"/>
+  </url>
+
+  <!-- Spanish "La Isla" page -->
+  <url>
+    <loc>https://malapascuaislamaldita.com/es/la-isla.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://malapascuaislamaldita.com/en/the-island.html"/>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="es"
+                 href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+  </url>
+
+  <!-- English "The Island" page -->
+  <url>
+    <loc>https://malapascuaislamaldita.com/en/the-island.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="es"
+                 href="https://malapascuaislamaldita.com/es/la-isla.html"/>
+    <xhtml:link
+                 rel="alternate"
+                 hreflang="en"
+                 href="https://malapascuaislamaldita.com/en/the-island.html"/>
+  </url>
 
 </urlset>

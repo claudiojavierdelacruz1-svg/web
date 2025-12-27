@@ -35,6 +35,11 @@ nav ul li a:hover {
     text-shadow: 0 0 5px #4ECDC4;
 }
 
+.language-selector {
+    margin-left: auto;
+    padding-right: 25px;
+}
+
 /* Estilos generales */
 body {
     font-family: Arial, sans-serif;
