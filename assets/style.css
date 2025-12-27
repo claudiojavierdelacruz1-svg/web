@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+JP&family=Noto+Sans+SC&family=Noto+Sans+Devanagari&display=swap');
+
 /* Estilos del menú */
 nav {
     width: 100%;
@@ -42,7 +44,7 @@ nav ul li a:hover {
 
 /* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Noto Sans', 'Noto Sans JP', 'Noto Sans SC', 'Noto Sans Devanagari', sans-serif;
     margin: 0;
     padding-top: 70px; /* Espacio para el menú fijo */
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('malapascua-isla-maldita.jpg') no-repeat center center fixed;
