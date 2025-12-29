@@ -39,7 +39,34 @@ nav ul li a:hover {
 
 .language-selector {
     margin-left: auto;
+    display: flex;
+    align-items: center;
     padding-right: 25px;
+}
+
+.language-selector select {
+    background-color: transparent;
+    color: #E0E0E0;
+    border: none;
+    font-size: 1.3em;
+    font-weight: bold;
+    font-family: inherit;
+    cursor: pointer;
+    padding: 5px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    text-align: center;
+}
+
+.language-selector select option {
+    background-color: rgba(10, 25, 40, 0.9);
+    color: #E0E0E0;
+    border: none;
+}
+
+.language-selector select:hover {
+    color: #4ECDC4;
 }
 
 /* Estilos generales */
