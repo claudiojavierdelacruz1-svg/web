@@ -12,12 +12,16 @@
         <ul>
             <li><a href="index.html">किताब</a></li>
             <li><a href="dweep.html">द्वीप</a></li>
-            <li class="language-selector"><a href="../es/index.html">Español</a></li>
-            <li class="language-selector"><a href="../en/index.html">English</a></li>
-            <li class="language-selector"><a href="../fr/index.html">Français</a></li>
-            <li class="language-selector"><a href="../zh/index.html">中文</a></li>
-            <li class="language-selector"><a href="../ja/index.html">日本語</a></li>
-            <li class="language-selector"><a href="../hi/index.html">हिन्दी</a></li>
+            <li class="language-selector">
+                <select onchange="location = this.value;">
+                    <option value="/es/">Español</option>
+                    <option value="/en/">English</option>
+                    <option value="/fr/">Français</option>
+                    <option value="/zh/">中文</option>
+                    <option value="/ja/">日本語</option>
+                    <option value="/hi/" selected>हिन्दी</option>
+                </select>
+            </li>
         </ul>
     </nav>
 

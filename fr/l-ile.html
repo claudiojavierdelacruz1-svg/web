@@ -12,11 +12,16 @@
         <ul>
             <li><a href="index.html">Le Livre</a></li>
             <li><a href="l-ile.html">L'Île</a></li>
-            <li class="language-selector"><a href="../es/la-isla.html">Español</a></li>
-            <li class="language-selector"><a href="../en/the-island.html">English</a></li>
-            <li class="language-selector"><a href="../zh/dao.html">中文</a></li>
-            <li class="language-selector"><a href="../ja/shima.html">日本語</a></li>
-            <li class="language-selector"><a href="../hi/dweep.html">हिन्दी</a></li>
+            <li class="language-selector">
+                <select onchange="location = this.value;">
+                    <option value="/en/the-island.html">English</option>
+                    <option value="/es/la-isla.html">Español</option>
+                    <option value="/fr/l-ile.html" selected>Français</option>
+                    <option value="/zh/dao.html">中文</option>
+                    <option value="/ja/shima.html">日本語</option>
+                    <option value="/hi/dweep.html">हिन्दी</option>
+                </select>
+            </li>
         </ul>
     </nav>
 
