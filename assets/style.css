@@ -171,6 +171,34 @@ p {
     box-shadow: 0 0 #A5362A;
 }
 
+/* Estilos del botón de contacto */
+.contact-button {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: #FFFFFF;
+    background-color: #3498DB; /* Azul vibrante */
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 6px #2980B9; /* Sombra para efecto 3D */
+    border: none;
+    cursor: pointer;
+}
+
+.contact-button:hover {
+    background-color: #2980B9; /* Azul más oscuro al pasar el ratón */
+    transform: translateY(2px); /* Efecto de "presionar" */
+    box-shadow: 0 4px #2471A3;
+}
+
+.contact-button:active {
+    transform: translateY(6px);
+    box-shadow: 0 0 #2471A3;
+}
+
 /* Media Queries para responsividad */
 @media (max-width: 800px) {
     .container {
