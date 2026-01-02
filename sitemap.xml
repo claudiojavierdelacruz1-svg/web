@@ -125,5 +125,10 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
   </url>
-
+  <!-- "Diving" Page URLs -->
+  <url>
+    <loc>https://malapascuaislamaldita.com/es/submarinismo.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+  </url>
 </urlset>
