@@ -261,3 +261,9 @@ p {
 #isla-container tbody tr:nth-child(even) {
     background-color: rgba(78, 205, 196, 0.1); /* Fondo sutil para filas pares */
 }
+
+
+/* Estilos específicos para la página Submarinismo */
+#diving-page-content h2, #diving-page-content h3 {
+    color: #4ECDC4; /* Turquesa, igual que el h1 */
+}

@@ -130,5 +130,60 @@
     <loc>https://malapascuaislamaldita.com/es/submarinismo.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/diving.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/en/diving.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/diving.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/fr/plongee.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/diving.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/zh/diving.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/diving.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/ja/diving.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/diving.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/hi/diving.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/diving.html"/>
   </url>
 </urlset>
