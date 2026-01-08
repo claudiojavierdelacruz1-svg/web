@@ -125,6 +125,7 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
   </url>
+
   <!-- "Diving" Page URLs -->
   <url>
     <loc>https://malapascuaislamaldita.com/es/submarinismo.html</loc>
@@ -186,4 +187,5 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/diving.html"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/diving.html"/>
   </url>
+
 </urlset>

@@ -262,8 +262,26 @@ p {
     background-color: rgba(78, 205, 196, 0.1); /* Fondo sutil para filas pares */
 }
 
+/* Estilos específicos para la página "Submarinismo" */
+#diving-container h2 {
+    color: #4ECDC4; /* Turquesa, como los títulos principales */
+    border-bottom: 2px solid #FFC300; /* Borde inferior amarillo/dorado */
+    padding-bottom: 10px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
 
-/* Estilos específicos para la página Submarinismo */
-#diving-page-content h2, #diving-page-content h3 {
-    color: #4ECDC4; /* Turquesa, igual que el h1 */
+#diving-container h3 {
+    color: #FFC300; /* Amarillo/dorado para los subtítulos de las inmersiones */
+    font-size: 1.4em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+#diving-container p {
+    margin-bottom: 15px; /* Reducir el margen inferior de los párrafos */
+}
+
+#diving-container p strong {
+    color: #4ECDC4; /* Turquesa para los elementos strong */
 }
