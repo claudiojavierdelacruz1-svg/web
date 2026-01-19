@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-  <!-- Homepage URLs -->
+  <!-- Index Pages -->
   <url>
     <loc>https://malapascuaislamaldita.com/es/index.html</loc>
     <priority>1.00</priority>
@@ -64,7 +64,7 @@
     <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/index.html"/>
   </url>
 
-  <!-- "The Island" Page URLs -->
+  <!-- Island Pages -->
   <url>
     <loc>https://malapascuaislamaldita.com/es/la-isla.html</loc>
     <priority>0.80</priority>
@@ -125,10 +125,128 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/shima.html"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/dweep.html"/>
   </url>
-  <!-- "Diving" Page URLs -->
+
+  <!-- Diving Pages -->
   <url>
     <loc>https://malapascuaislamaldita.com/es/submarinismo.html</loc>
     <priority>0.80</priority>
     <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/qian-shui.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/daibingu.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/gota-khori.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/en/diving.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/qian-shui.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/daibingu.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/gota-khori.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/fr/plongee.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/qian-shui.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/daibingu.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/gota-khori.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/zh/qian-shui.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/qian-shui.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/daibingu.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/gota-khori.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/ja/daibingu.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/qian-shui.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/daibingu.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/gota-khori.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/hi/gota-khori.html</loc>
+    <priority>0.80</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/submarinismo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/diving.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/plongee.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/qian-shui.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/daibingu.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/gota-khori.html"/>
+  </url>
+
+  <!-- Contact Pages -->
+  <url>
+    <loc>https://malapascuaislamaldita.com/es/contact.html</loc>
+    <priority>0.50</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/contact.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/en/contact.html</loc>
+    <priority>0.50</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/contact.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/fr/contact.html</loc>
+    <priority>0.50</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/contact.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/zh/contact.html</loc>
+    <priority>0.50</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/contact.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/ja/contact.html</loc>
+    <priority>0.50</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/contact.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/hi/contact.html</loc>
+    <priority>0.50</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/contact.html"/>
   </url>
 </urlset>
