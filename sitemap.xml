@@ -249,4 +249,66 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/contact.html"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/contact.html"/>
   </url>
+
+  <!-- Author Pages -->
+  <url>
+    <loc>https://malapascuaislamaldita.com/es/el-autor.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/el-autor.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-auteur.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/zuo-zhe.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/chosha.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/lekhak.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/en/the-author.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/el-autor.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-auteur.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/zuo-zhe.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/chosha.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/lekhak.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/fr/l-auteur.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/el-autor.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-auteur.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/zuo-zhe.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/chosha.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/lekhak.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/zh/zuo-zhe.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/el-autor.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-auteur.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/zuo-zhe.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/chosha.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/lekhak.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/ja/chosha.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/el-autor.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-auteur.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/zuo-zhe.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/chosha.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/lekhak.html"/>
+  </url>
+  <url>
+    <loc>https://malapascuaislamaldita.com/hi/lekhak.html</loc>
+    <priority>0.70</priority>
+    <xhtml:link rel="alternate" hreflang="es" href="https://malapascuaislamaldita.com/es/el-autor.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://malapascuaislamaldita.com/en/the-author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://malapascuaislamaldita.com/fr/l-auteur.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://malapascuaislamaldita.com/zh/zuo-zhe.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://malapascuaislamaldita.com/ja/chosha.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://malapascuaislamaldita.com/hi/lekhak.html"/>
+  </url>
 </urlset>
