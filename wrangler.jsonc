@@ -3,7 +3,6 @@
   "name": "malapascuaislamaldita-web",
   "compatibility_date": "2026-09-17",
   "assets": {
-    "directory": "./public",
-    "binding": "ASSETS"
+    "directory": "./public"
   }
 }
